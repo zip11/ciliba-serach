@@ -1,5 +1,5 @@
 # ciliba-serach
-用途:输入文件名,批量提取ciliba网站的磁力链接
+用途:输入文件名,批量提取 磁力吧 网站的磁力链接
 
 ①使用需要安装chrome游览器,游览器对应版本的chromedriver,
 ②安装python3,
